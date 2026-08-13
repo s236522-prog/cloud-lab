@@ -1,6 +1,8 @@
 # Cloud Lab
 
-Đây là project thực hành Git và GitHub.
+**Họ và tên:** Lưu Minh Nhật  
+**MSSV:** S236522  
+**Lớp:** [Tên lớp của bạn]
 
 ## Nội dung
 
