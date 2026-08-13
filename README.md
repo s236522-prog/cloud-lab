@@ -1,4 +1,10 @@
-# Cloud Computing Laboratory
-Student Name: Luu Minh Nhat
-Student ID: 236522
-Class: DH23TIN08
+# Cloud Lab
+
+Đây là project thực hành Git và GitHub.
+
+## Nội dung
+
+- Docker
+- Git
+- GitHub
+- Python
