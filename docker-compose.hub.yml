@@ -1,6 +1,8 @@
+
 services:
   backend:
     image: minhnhat810/mern-backend:1.0
+    network_mode: bridge
     ports:
       - "5000:5000"
     environment:
@@ -9,18 +11,7 @@ services:
 
   frontend:
     image: minhnhat810/mern-frontend:2.0
+    network_mode: bridge
     ports:
       - "4173:4173"
     restart: unless-stopped
-
-
-  
-
-
-
-
-
-
-
-
-
